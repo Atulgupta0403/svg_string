@@ -21,7 +21,7 @@ string.addEventListener("mouseleave",()=>{
     gsap.to("svg path",{
         attr:{d:finalValue},
         duration:0.8,
-        ease:"elastic.out(1,0.2)"
+        ease:"elastic.out(1.4,0.2)"
 
     })
 })
