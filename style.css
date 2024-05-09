@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+
+
+
+.string{
+    height: 400px;
+    width: 100vw;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+
